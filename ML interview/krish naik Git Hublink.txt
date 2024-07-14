@@ -1,0 +1,7 @@
+Github link
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDR3Q29vMTdKODBOSUNTeHI2Z1RaX05Ld1h6QXxBQ3Jtc0ttSkFrbG1yU2tGYmk3ZnV4MlFVVmxEY29UMHJlQXZNU2NRd0czZ0l0X01vN1VpenJ6QS1vME1Ic28wNEZFaVB2alpTWlNRRmlHMzBqNjZfLXY5Mml3SV9hbi1zcVpLWVlUU29oTHZGbVI4TkRDV2Q4Yw&q=https%3A%2F%2Fgithub.com%2FiNeuronai%2Finterview-question-data-science-&v=Vo2zPqyFr6c
+
+
+
+Time Series 
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3g5MHhUNkJIb0lZcDBLcFUwUVI2MUlKV2R0Z3xBQ3Jtc0trdE56U2tyXzJHZzlna3BBWjA4a1Z4QUZJQnA5MHFjeXR0T2doTFBGYXg5Y0p4OEhnd1VxamZRMTBoR3ZaWWd0MzhfUEZxd0E5NGtFbHhtaEpNOUpNZXFBRXZYSG1FWi1QTnRRZWE0b0VYYjMyRWEzUQ&q=https%3A%2F%2Fmachinelearningmastery.com%2Fhow-to-develop-lstm-models-for-time-series-forecasting%2F&v=UbvkhuqVqUI

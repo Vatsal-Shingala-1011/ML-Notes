@@ -1,0 +1,11 @@
+Measure of Dispersion
+A measure of dispersion is a statistical measure that describes the spread or 
+variability of a dataset. It provides information about how the data is distributed 
+around the central tendency (mean, median or mode) of the dataset.
+
+The t-distribution is similar to the normal distribution (also known as the Gaussian distribution or 
+the bell curve) but has heavier tails. The shape of the t-distribution is determined by the degrees of 
+freedom, which is closely related to the sample size (degrees of freedom = sample size - 1). As the 
+degrees of freedom increase (i.e., as the sample size increases), the t-distribution approaches the 
+normal distribution.
+degrees of freedom = sample size - 1

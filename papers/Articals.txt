@@ -1,0 +1,4 @@
+Jay's Vector Embedding: https://jalammar.github.io/illustrated-word2vec/
+
+Jay's Transformers: https://jalammar.github.io/illustrated-transformer/ 
+https://github.com/jalammar/jalammar.github.io/blob/master/notebooks/distilbert.ipynb
